@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T14:27:01.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="LKauVRgf0T3tuaQCR-op" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T14:32:16.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="PvxKYOnMUpti3sB5-5H5" version="13.10.4" type="github">
   <diagram id="king28Wa4wDvFOfGBkRx" name="Page-1">
     <mxGraphModel dx="1673" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="XOcuQOFH5wMLyC1MqPu--45" value="Fk" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--44">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XOcuQOFH5wMLyC1MqPu--46" value="id_dane" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--44">
+        <mxCell id="XOcuQOFH5wMLyC1MqPu--46" value="id_statystyka" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--44">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XOcuQOFH5wMLyC1MqPu--47" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--40">
@@ -184,7 +184,7 @@
         <mxCell id="XOcuQOFH5wMLyC1MqPu--59" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--58">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XOcuQOFH5wMLyC1MqPu--60" value="id_dane" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--58">
+        <mxCell id="XOcuQOFH5wMLyC1MqPu--60" value="id_statystyka" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--58">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XOcuQOFH5wMLyC1MqPu--61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XOcuQOFH5wMLyC1MqPu--57">
