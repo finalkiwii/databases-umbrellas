@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T13:40:34.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="DG6S2Q0hEBekpJthMJIM" version="14.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-17T13:45:44.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="-UMsO6UlfhnN2psyrwwW" version="14.0.4" type="github" pages="2">
   <diagram id="fdbAlBpdabrkuO3k_GDF" name="Page-1">
     <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sltui8JSw1h2iG8DlyV2" name="Page-2">
-    <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3W3n_nv946zFMJwHKfL3-0" />
         <mxCell id="3W3n_nv946zFMJwHKfL3-1" parent="3W3n_nv946zFMJwHKfL3-0" />
@@ -566,7 +566,7 @@
         <mxCell id="3W3n_nv946zFMJwHKfL3-80" value="nazwa" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="3W3n_nv946zFMJwHKfL3-78" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NhVwCb4PzsyVTkSRrteR-0" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="3W3n_nv946zFMJwHKfL3-1">
+        <mxCell id="NhVwCb4PzsyVTkSRrteR-0" value="Rok" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="3W3n_nv946zFMJwHKfL3-1">
           <mxGeometry x="550" y="420" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NhVwCb4PzsyVTkSRrteR-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhVwCb4PzsyVTkSRrteR-0">
